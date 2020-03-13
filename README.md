@@ -1,2 +1,3 @@
 # JavaEpamBsuirLabs
-This branch contains all labs made by Artyom Vinokurov for "KPP".
+Fourth laboratory work.
+Variant №7
